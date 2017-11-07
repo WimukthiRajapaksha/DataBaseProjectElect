@@ -1,0 +1,165 @@
+
+
+     .jumbotron1{
+       margin-top: 20px;
+       margin-left: 20px;
+       width: 370px;
+       height: 241px;
+       background-image: url("../img/profile.jpg");
+       background-repeat: no-repeat;
+      border: 1px solid black;
+      background-color: yellow;
+
+     }
+     .jumbotron1 h3{
+
+       padding-left: -20px;
+       padding-right: 10px;
+       padding-top: -30px;
+       padding-bottom: 50px;
+       color: white;
+     }
+     .jumbotron1 h3: hover{
+       border: 1px solid black;
+
+     }
+
+     .jumbotron2{
+       margin-top: 20px;
+       margin-left: 20px;
+       width: 370px;
+       height: 241px;
+       background-image: url("../img/job.jpg");
+       background-repeat: no-repeat;
+         border: 1px solid black;
+
+     }
+
+     .jumbotron2 h3{
+
+       padding-left: -20px;
+       padding-right: 10px;
+       padding-top: -30px;
+       padding-bottom: 50px;
+       color: black;
+     }
+
+     .jumbotron3{
+        margin-top: 20px;
+       margin-left: 20px;
+       width: 370px;
+       height: 241px;
+       background-image: url("../img/payment.jpg");
+       background-repeat: no-repeat;
+         border: 1px solid black;
+
+     }
+
+     .jumbotron3 h3{
+
+       padding-left: -20px;
+       padding-right: 10px;
+       padding-top: -30px;
+       padding-bottom: 50px;
+       color: black;
+     }
+
+     .jumbotron4{
+       margin-top: 20px;
+       margin-left: 20px;
+       width: 370px;
+       height: 241px;
+       background-image: url("../img/connection.jpg");
+       background-repeat: no-repeat;
+      border: 1px solid black;
+
+     }
+     .jumbotron4 h3{
+
+       padding-left: -20px;
+       padding-right: 10px;
+       padding-top: -30px;
+       padding-bottom: 50px;
+       color: white;
+     }
+
+
+     #map {
+         height: 300px;
+         width: 400px;
+
+         margin-left: 400px;
+           border: 1px solid grey;
+     }
+
+     #contentback{
+      margin-left: 150px;
+      margin-right: 150px;
+
+     }
+
+
+           .gradContent {
+             background: #BBBBBB; /* For browsers that do not support gradients */
+             background: -webkit-linear-gradient(left top, #BBBBBB, white); /* For Safari 5.1 to 6.0 */
+             background: -o-linear-gradient(bottom right, #BBBBBB, white); /* For Opera 11.1 to 12.0 */
+             background: -moz-linear-gradient(bottom right,#BBBBBB, white); /* For Firefox 3.6 to 15 */
+             background: linear-gradient(to bottom right, #BBBBBB, white); /* Standard syntax */
+           }
+     .grad1 {
+
+         background:#BBBBBB; /* For browsers that do not support gradients */
+         background: -webkit-linear-gradient(#BBBBBB, white); /* For Safari 5.1 to 6.0 */
+         background: -o-linear-gradient(#BBBBBB, white); /* For Opera 11.1 to 12.0 */
+         background: -moz-linear-gradient(#BBBBBB, white); /* For Firefox 3.6 to 15 */
+         background: linear-gradient(#BBBBBB, white); /* Standard syntax (must be last) */
+     }
+
+     .container-fluid li:hover{
+      background-position: bottom;
+      background-color: yellow;
+
+     }
+
+     .container-fluid li{
+      border-right: 1px solid #990000;
+     }
+
+
+     .navbar{
+         background-image: url('../img/navbarback.png');
+         background-repeat: no-repeat;
+         background-size: cover;
+         position: fixed;
+         display: block;
+         width: 100%;
+         top: 0;
+         z-index: 5;
+         padding-bottom: 0;
+
+
+      }
+
+     .navbarpic{
+       background-image: url("img/navbarback.png");
+       background-repeat: no-repeat;
+       padding-bottom: 0;
+     background-size: 1180px,50px;
+     border-bottom: 0;
+     }
+    .message{
+       border: 2px solid #8D0D19;
+       color: #8D0D19;
+       font-weight: bold;
+       text-align: center;
+       margin: 1em 0;
+       padding: 1em;
+     }
+     .error{
+       border: 2px solid #8D0D19;
+       color: #8D0D19;
+       font-weight: bold;
+       text-align: center;
+       margin: 1em 0;
+       padding: 1em;
+     }
