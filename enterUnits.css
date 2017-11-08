@@ -1,0 +1,17 @@
+.formOfInner{
+    padding: 30px;
+    padding-top: 70px;
+    width: 500px;
+    background: red;
+}
+.meterId,.totalUnits,.Datee{
+    display: inline-block;
+    padding: 20px;
+    margin-left: 80px;
+}
+p{
+    float: left;
+}
+.meter_Id,.total_Units,.innerDate{
+    float: right;
+}
