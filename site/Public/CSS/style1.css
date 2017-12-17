@@ -1,0 +1,37 @@
+/* Your custom styles */
+html{
+overflow: auto;
+}
+
+.header{
+    /*background-image: url("../img/heading.jpg");*/
+    background: #e3e4fa;
+    background: linear-gradient(#ff9913, #ddb54f, #ffe347, #f6ff2d);
+    border-radius:10px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative;
+    size: auto;
+    width: auto;
+}
+
+.header h1{
+	 font-family: normal;
+    font-size: 52px;
+    font-style: normal;
+    padding-left: 15px;
+    text-align: center;
+}
+.header p{
+	 font-family: courier;
+    color: #ff341d;
+    font-size: 35px;
+    text-align: center;
+    font-weight: bold;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+
+
+
+
